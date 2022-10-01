@@ -1,9 +1,8 @@
 //Instale o inquirer e chalk.
-//const inquirer = require("inquirer");
-
+//const inquirer = require("inquirer");                  *****   O import não funcionou dessa forma.   *****
 import inquirer from "inquirer";
 import chalk from "chalk";
-//const chalk = require("chalk");
+//const chalk = require("chalk");                        *****   O import não funcionou dessa forma.   *****
 
 //Utilize o inquirer para receber o nome e o ano de nascimento do usuário.
 inquirer.prompt([{
