@@ -1,0 +1,5 @@
+*É o principal gerenciador de pacotes do Node.js.
+
+*Comando usado para iniciar o projeto com npm: npm init.
+
+

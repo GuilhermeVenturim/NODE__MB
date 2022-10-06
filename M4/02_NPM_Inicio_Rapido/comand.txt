@@ -1,0 +1,1 @@
+Comando utilizado para iniciar o npm de forma rápida: npm init -y
