@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 2.5rem;
+    color: aquamarine;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    font-weight: 700;
+    
+}
+
+h1{
+    color: aqua;
+    font-size: 3rem;
+}
+
+p{
+    color:azure;
+    padding: 2.5%;
+    background-color: grey;
+}
+
+li{
+    list-style: none;
+}

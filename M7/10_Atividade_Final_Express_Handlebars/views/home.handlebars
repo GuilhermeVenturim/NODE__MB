@@ -1,0 +1,14 @@
+<h1>Esta página está utilizando Handlebars e express</h1>
+
+
+<ul>
+        {{#each products}}
+        <!-- This refere-se ao item atual da array -->
+         <li><a href="/produtos/id">{{ this}}</a></li>
+        {{/each}}
+</ul>
+
+<p>Texto teste 1</p>
+<p>Texto teste 2</p>
+<p>Texto teste 3</p>
+<p>Texto teste 4</p>
