@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 2rem;
+    color: bisque;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    color: rgb(245, 192, 112);
+    padding: 2%;
+    background-color: aquamarine;
+}
